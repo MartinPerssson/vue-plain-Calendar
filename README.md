@@ -4,6 +4,6 @@ Customizable with moment.js and the possibility to add your own functionality.
 
 # Installation:
 Simply import as component.
-NPM installation is planned in near future.
+NPM installation is planned in the near future.
 
 ![example image](https://github.com/MartinPerssson/vue-plain-Calendar/blob/master/example%20image.png)
